@@ -40,8 +40,5 @@ XXX Move resource estimates to a multipage PDF output.
 XXX Finish the worker hour piece.
 XXX Test data make it show a cool test.
 XXX Readme.md updates.
-
-TODO (MAYBE?)
-
-OOO How is it going to be run? python budget.py inputTasks outputFname. Implement this.
-OOO Publish open source version on github.
+XXX How is it going to be run? python budget.py inputTasks outputFname. Implement this.
+XXX Publish open source version on github.
