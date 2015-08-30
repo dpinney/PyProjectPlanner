@@ -1,0 +1,47 @@
+DONE
+
+XXX Put in a bar chart.
+XXX Make heights match budget.
+XXX Do dates instead of ints.
+XXX Make axis labels show up correctly.
+XXX Fix label position.
+XXX Project type.
+XXX Current date line.
+XXX Spend to date.
+XXX Total spend chart.
+XXX Real(er) data.
+XXX CSV import.
+XXX Clean up import CSV to only have real stuff.
+XXX Need to display date of last update. As a title maybe?
+XXX Real data.
+XXX Make timeline heights monthly budget instead of total.
+XXX Add an example future projects to CSV.
+XXX Height of proposed projects in budget/proposed chart too tall? Nah.
+XXX Max height = total budget via ylim.
+XXX Make it awesome at any resolution. Better ticks. Smaller fonts.
+XXX Calculate yearly shares of projects.
+XXX Do staffing calculations.
+XXX Add staffing chart. Per quarter or month--year because that's where the budget is! Pies or columns or text? Unstaffed things by project--no, force projects to add to 100 in staffing. Data source--have an allocation table. Rate information--have a rate table.
+XXX Todo: KILL REMIX, have projects and tasks. See "Another Rethink".
+XXX Need startYear and endYear in allocations. That way we can properly schedule interns and contractors. Tasks fixes this.
+XXX Bonus: implement ideal project JSON format. CSV is great now.
+XXX Bonus: what about budget changes? Shouldn't be an issue.
+XXX Bonus: How to show users that they need 3x this years budget in the pipeline? Oral tradition.
+XXX Correct budget details.
+XXX Bonus: legend. Location--Top left inside each chart.
+XXX Bonus: actual spend by quarter? No, too much information.
+XXX Spend by internal versus external. Not a priority now.
+XXX Bonus: better labels on bars.
+XXX Bonus: V&V? Later.
+XXX Bonus: graphics for staffing chart? Too hard. Table is messed up.
+XXX How big a PDF can we make...? Gigantic. But better to make http://matplotlib.org/examples/pylab_examples/multipage_pdf.html.
+XXX Put rates inside the task table.
+XXX Move resource estimates to a multipage PDF output. 
+XXX Finish the worker hour piece.
+XXX Test data make it show a cool test.
+XXX Readme.md updates.
+
+TODO (MAYBE?)
+
+OOO How is it going to be run? python budget.py inputTasks outputFname. Implement this.
+OOO Publish open source version on github.

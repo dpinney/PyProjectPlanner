@@ -1,0 +1,7 @@
+project,task,owner,rate,budget,spend,start,end,status
+Ferment the Sourdough Bagette,owner,Harper,4,8000,7700,2015-02-01,2015-07-31,complete
+House Cure the Meats,owner,Liam,3,5000,2500,2015-01-01,2016-10-30,working
+House Cure the Meats,owner,Zoe,3,5000,2500,2015-01-01,2016-10-30,working
+Crumble Cheetos,owner,Zoe,3,7000,1200,2015-06-01,2016-08-31,working
+Japanese Mayonaise,owner,Elijah,3,4000,0,2015-10-01,2016-09-30,working
+Cultivate Microgreens,owner,Harper,5,12000,0,2016-01-01,2016-12-31,proposed
