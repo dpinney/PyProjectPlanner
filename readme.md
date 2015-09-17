@@ -7,7 +7,7 @@ I built this because I had to plan some projects at work and Excel was driving m
 ### Installation and Walkthrough
 
 0. Install the requirements with `pip install matplotlib`.
-1. Download [the scripts](blah).
+1. Download [the scripts](https://github.com/dpinney/PyProjectPlanner/archive/master.zip).
 2. In the script directory run `python PyProjectPlanner.py ./testTasksArtisinalSandwich.csv testOutputNew.pdf` to run the tests.
 3. You'll have a new PDF with all the output. On page one, it shows all the tasks with areas proportional to how much money you're spending on them and arranged by start and end dates:
 ![Chart of budget by task.](https://raw.githubusercontent.com/dpinney/PyProjectPlanner/master/walkthroughScreenshotTasks.png)
