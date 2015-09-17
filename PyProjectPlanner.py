@@ -85,8 +85,8 @@ def drawBudgetChart(tasks, updateDt):
 			color=spendMap.get(p['status'],'gray'),
 			edgecolor='white')
 		# Spend title:
-		if monthlyBudget(p) > 0.025 * totalBudget:
-			ax1.text(x=p['start'], y=currBottom+0.005*totalBudget, s=' ' + p['name'], color='white', size=4)
+		if monthlyBudget(p) > 0.015 * totalBudget:
+			ax1.text(x=p['start'], y=currBottom+0.005*totalBudget, s=' ' + p['name'], color='white', size=3)
 	# Set up the axis labels.
 	ax1.yaxis.set_visible(False)
 	ax1.xaxis.set_visible(False)
@@ -174,7 +174,7 @@ def drawUtilizationChart(tasks):
 			if people.index(p) == 0:
 				plt.title(str(y))
 			if years.index(y) == 0:
-				plt.ylabel(p, fontsize=10)
+				plt.ylabel(p, fontsize=6)
 			plt.axhline(y=2000, xmin=0, xmax=1, linewidth=0.5, color = 'gray', ls='dashed')
 			pastHeights = 0
 			for t in tasks:
